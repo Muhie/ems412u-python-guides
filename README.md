@@ -12,4 +12,4 @@ The **Practice Questions toolkit** is meant to serve as an additional list of pr
 
 ## Video Installation Resources
 
-These are interactive installation guides tailored to installing the dependencies for the EMS412U module. Which can be found ![here.](https://www.youtube.com/watch?v=sRj58RCRRSE&list=PLVTKec-v1Xhsq0B_q3NbLEAafPlh_3XhE)
+These are interactive installation guides tailored to installing the dependencies for the EMS412U module. Which can be found <a href="https://www.youtube.com/watch?v=sRj58RCRRSE&list=PLVTKec-v1Xhsq0B_q3NbLEAafPlh_3XhE">here.</a>
