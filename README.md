@@ -9,3 +9,7 @@ The **Common Errors toolkit** serves as a supplementary resource for you to use 
 ## Python Practice Questions Toolkit
 
 The **Practice Questions toolkit** is meant to serve as an additional list of practice Python exercises covering content from Weeks 1-6. After you have completed the IT class tutorials on Jupyterhub, you may wish to try these exercises to hone your programming skills.
+
+## Video Installation Resources
+
+These are interactive installation guides tailored to installing the dependencies for the EMS412U module. Which can be found ![here.](https://www.youtube.com/watch?v=sRj58RCRRSE&list=PLVTKec-v1Xhsq0B_q3NbLEAafPlh_3XhE)
